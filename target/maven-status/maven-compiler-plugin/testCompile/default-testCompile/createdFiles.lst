@@ -1,0 +1,10 @@
+steps\BBDStyledMethod.class
+pojo\Address.class
+steps\TestInitialize.class
+pojo\LoginBody.class
+steps\TestContext.class
+steps\GETPostSteps.class
+pojo\Location.class
+pojo\Posts.class
+steps\POSTProfileSteps.class
+steps\POSTAuthSteps.class
